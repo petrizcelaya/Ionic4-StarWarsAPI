@@ -1,0 +1,6 @@
+{
+  "appId": "com.codigofacilito.ionicsw",
+  "appName": "Ionic SW",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
